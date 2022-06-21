@@ -3,9 +3,9 @@
 <h4 align="center">I'm a computer science students at Tecnologico de monterrey :man_student: </h4>
 </div>
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  
   <img  src="german.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
 <p></p>
 <h2>
