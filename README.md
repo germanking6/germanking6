@@ -25,7 +25,7 @@ hello! here's a little about me:
 <p></p>
 
 <h1>
-  i'm a vue.js fanboy, but i do some other stuff too :hammer:
+  I almost forgot my skils... :fearful:
 </h1>
 
 <p align="center">
