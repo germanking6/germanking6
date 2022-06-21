@@ -1,10 +1,16 @@
-hello! here's a little about me:
-
-
-
-<h1>
+<div align="center">
+<h1 align="center">Hi, I'm German</h1>
+<h4 align="center">I'm a computer science students at Tecnologico de monterrey :man_student: </h4>
+</div>
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="german.svg"
+       alt="snake" /></a>
+</div>
+<p></p>
+<h2>
   i really like music :headphones:
-</h1>
+</h2>
 
 <!-- Nothing weird to see here -->
 <p align="center">
@@ -22,6 +28,7 @@ hello! here's a little about me:
 <p align="center">
 </p>
 </details>
+<p></p>
 <details>
   <summary>☎️ contact me</summary>
 <div>
@@ -42,7 +49,7 @@ hello! here's a little about me:
 <p></p>
 <details>
     <summary> My Statistics :chart_with_upwards_trend:</summary>
-
+<h1>Current Activity</h1>
 <br/>
 <p align="left">
 <a href="http://german.tsurustuneados.com/">
@@ -51,15 +58,17 @@ hello! here's a little about me:
 </a>
 </p>
 
-</details>
-<h1>Current Activity</h1>
 <br>
 
 [![Germanking6 Activity Graph](https://activity-graph.herokuapp.com/graph?username=germanking6&custom_title=Germanking6%20%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://german.tsurustuneados.com/)
 
-<h1>
+</details>
+<p></p>
+<details>
+
+<summary>
   I almost forgot my skils... :fearful:
-</h1>
+</summary>
 
 <p align="center">
   <img src="https://spotify.tsurustuneados.com/api/skills">
@@ -70,3 +79,4 @@ hello! here's a little about me:
 
 
 <a href="https://media.discordapp.net/attachments/956262566366175322/988647886344585236/unknown.png?width=1200&height=429">c2</a>
+</details>
