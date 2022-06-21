@@ -20,6 +20,24 @@ hello! here's a little about me:
 <p align="center">
 </p>
 </details>
+<details>
+  <summary>☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center"> you can contact me 👉👈:</h2>
+  <p align="center">
+        <a href="https://www.linkedin.com/in/german-jramirez/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.instagram.com/germanking9/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
 
 <p></p>
 <details>
@@ -37,6 +55,7 @@ hello! here's a little about me:
 <br>
 
 [![Germanking6 Activity Graph](https://activity-graph.herokuapp.com/graph?username=germanking6&custom_title=Germanking6%20%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://german.tsurustuneados.com/)
+
 <h1>
   I almost forgot my skils... :fearful:
 </h1>
