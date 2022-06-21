@@ -47,7 +47,7 @@
 </details>
 
 <p></p>
-
+<details>
     <summary> My Statistics :chart_with_upwards_trend:</summary>
 <h1>Current Activity</h1>
 <br/>
@@ -61,7 +61,7 @@
 <br>
 
 [![Germanking6 Activity Graph](https://activity-graph.herokuapp.com/graph?username=germanking6&custom_title=Germanking6%20%20Contribution%20Graph&theme=react-dark)](http://german.tsurustuneados.com/)
-
+</details>
 
 <p></p>
 <details>
