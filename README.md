@@ -47,22 +47,22 @@
 </details>
 
 <p></p>
-<details>
+
     <summary> My Statistics :chart_with_upwards_trend:</summary>
 <h1>Current Activity</h1>
 <br/>
 <p align="left">
 <a href="http://german.tsurustuneados.com/">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=germanking6&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=germanking6&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=germanking6&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=germanking6&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
 <br>
 
-[![Germanking6 Activity Graph](https://activity-graph.herokuapp.com/graph?username=germanking6&custom_title=Germanking6%20%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://german.tsurustuneados.com/)
+[![Germanking6 Activity Graph](https://activity-graph.herokuapp.com/graph?username=germanking6&custom_title=Germanking6%20%20Contribution%20Graph&theme=react-dark)](http://german.tsurustuneados.com/)
 
-</details>
+
 <p></p>
 <details>
 
