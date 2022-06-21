@@ -52,6 +52,7 @@ hello! here's a little about me:
 </p>
 
 </details>
+<h1>Current Activity</h1>
 <br>
 
 [![Germanking6 Activity Graph](https://activity-graph.herokuapp.com/graph?username=germanking6&custom_title=Germanking6%20%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://german.tsurustuneados.com/)
