@@ -33,8 +33,6 @@ hello! here's a little about me:
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       
-      <br>
-    </p>
   </samp>
 </div>
 </details>
