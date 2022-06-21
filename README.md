@@ -24,6 +24,25 @@ hello! here's a little about me:
 
 <p></p>
 
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="http://german.tsurustuneados.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=germanking6&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=germanking6&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=germanking6&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+
+------
+<h1>
+  Currently working at 
+</h1>
+<img src="https://media-exp1.licdn.com/dms/image/C4E1BAQHCsCUXa6PB-A/company-background_10000/0/1630696102380?e=2147483647&v=beta&t=2eQ99RwaQ7lxQLyd8CrZfDxX11sYgPE6lysKvMreqME">
+
 <h1>
   I almost forgot my skils... :fearful:
 </h1>
