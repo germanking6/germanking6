@@ -62,3 +62,9 @@ hello! here's a little about me:
 <p align="center">
   <img src="https://spotify.tsurustuneados.com/api/skills">
 </p>
+
+
+<a href="https://media.discordapp.net/attachments/956262566366175322/988647822549209098/unknown.png?width=1200&height=398">c1</a>
+
+
+<a href="https://media.discordapp.net/attachments/956262566366175322/988647886344585236/unknown.png?width=1200&height=429">c2</a>
