@@ -1,16 +1,33 @@
-### Hi there 👋
+hello! here's a little about me:
 
-<!--
-**germanking6/germanking6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+  i really like music :headphones:
+</h1>
 
-Here are some ideas to get you started:
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://spotify.tsurustuneados.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://spotify.tsurustuneados.com/api/now-playing">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://spotify.tsurustuneados.com/api/top-played">
+</p>
+ 
+<p align="center">
+  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
+</p>
+
+
+<p></p>
+
+<h1>
+  i'm a vue.js fanboy, but i do some other stuff too :hammer:
+</h1>
+
+<p align="center">
+  <img src="https://spotify.tsurustuneados.com/api/skills">
+</p>
