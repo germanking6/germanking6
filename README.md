@@ -20,6 +20,8 @@
     <img src="https://spotify.tsurustuneados.com/api/now-playing">
 </a>
 </p>
+
+
 <details>
 <summary>:notes: more music </summary>
 <p align="center">
@@ -67,6 +69,7 @@
 [![Germanking6 Activity Graph](https://activity-graph.herokuapp.com/graph?username=germanking6&custom_title=Germanking6%20%20Contribution%20Graph&theme=react-dark)](http://german.tsurustuneados.com/)
 </details>
 
+<p></p>
 
 <details>
   <summary>🎮 experience </summary>
@@ -82,12 +85,13 @@
   <h4>- The goal is to allow users to have better experience by making the recovery of the expenses controlled by the managers and op-managers in the company.</h4>
   <h4>- Worked as a full-stack developer creating different</h4>
   
-  Front-End: `React`
+  Front-End: `React` `MaterialUI`
 
   Back-End:  `Flask`
 
   Database: `DB2 SQL`
   
+  Deploy: `Ibm cloud foundry`, `firebase`, `Digital Oceal`
 
   
 </details>
