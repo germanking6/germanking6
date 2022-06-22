@@ -91,7 +91,7 @@
 
   Database: `DB2 SQL`
   
-  Deploy: `Ibm cloud foundry`, `firebase`, `Digital Oceal`
+  Deploy: `Ibm cloud foundry`, `firebase`, `Digital Ocean`
 
   
 </details>
