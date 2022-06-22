@@ -20,7 +20,7 @@
 </a>
 </p>
 <details>
-<summary>more music :notes:</summary>
+<summary>:notes: more music </summary>
 <p align="center">
 <img src="https://spotify.tsurustuneados.com/api/top-played">
 </p>
@@ -35,6 +35,9 @@
   <samp>
     <h2 align="center"> you can contact me 👉👈:</h2>
   <p align="center">
+          <a href="https://codeforces.com/profile/germanking6" target="blank"><img align="center"
+         src="https://cdn.codeforces.com/s/23672/images/codeforces-logo-with-telegram.png"
+         alt="azzar" height="30"/></a>
         <a href="https://www.linkedin.com/in/german-jramirez/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -48,7 +51,7 @@
 
 <p></p>
 <details>
-    <summary> My Statistics :chart_with_upwards_trend:</summary>
+    <summary>:chart_with_upwards_trend: My Statistics </summary>
 <h1>Current Activity</h1>
 <br/>
 <p align="left">
@@ -67,7 +70,7 @@
 <details>
 
 <summary>
-  I almost forgot my skils... :fearful:
+  :fearful: I almost forgot my skils... 
 </summary>
 
 <p align="center">
