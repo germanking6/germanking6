@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi👋, I'm German</h1>
-<h4 align="center">I'm a computer science students at Tecnologico de monterrey :man_student: </h4>
+<h4 align="center">I'm a Computer Science and Technology at Tecnologico de monterrey :man_student: </h4>
 <h4 align="center" >graduation year 202? 😎 </h4>
 </div>
 <div align="center">
