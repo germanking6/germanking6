@@ -71,32 +71,7 @@
 
 <p></p>
 
-<details>
-  <summary>🎮 experience </summary>
-  <h3>ICPC Competition</h3>
-  <h4>- Competitive programming competition</h4>
-  <h4>- Participate in the regional stage of ICPC 2022 mexico</h4>
 
-  Language: `c++`
-
-  <p></p>
-  <h3>Lert App</h3>
-  <h4>- This app is a solution for the administration's problems.</h4> 
-  <h4>- The goal is to allow users to have better experience by making the recovery of the expenses controlled by the managers and op-managers in the company.</h4>
-  <h4>- Worked as a full-stack developer creating different</h4>
-  
-  Front-End: `React` `MaterialUI`
-
-  Back-End:  `Flask`
-
-  Database: `DB2 SQL`
-  
-  Deploy: `Ibm cloud foundry`, `firebase`, `Digital Ocean`
-
-  
-</details>
-
-<p></p>
 <details>
 
 <summary>
@@ -107,9 +82,4 @@
   <img src="https://spotify.tsurustuneados.com/api/skills">
 </p>
 
-
-<a href="https://media.discordapp.net/attachments/956262566366175322/988647822549209098/unknown.png?width=1200&height=398">c1</a>
-
-
-<a href="https://media.discordapp.net/attachments/956262566366175322/988647886344585236/unknown.png?width=1200&height=429">c2</a>
 </details>
