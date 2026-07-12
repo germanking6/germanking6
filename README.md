@@ -3,8 +3,6 @@
 <h1>Hi 👋, I'm German</h1>
 
 <h3>Software Engineer @ Microsoft</h3>
-<p>🎓 Class of 2024 · Tecnológico de Monterrey — Computer Science & Technology</p>
-
 </div>
 
 <div align="center">
