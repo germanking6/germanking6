@@ -1,85 +1,44 @@
 <div align="center">
-<h1 align="center">Hi👋, I'm German</h1>
-<h4 align="center">I'm a Computer Science and Technology at Tecnologico de monterrey :man_student: </h4>
-<h4 align="center" >graduation year 202? 😎 </h4>
+
+<h1>Hi 👋, I'm German</h1>
+
+<h3>Software Engineer @ Microsoft</h3>
+<p>🎓 Class of 2024 · Tecnológico de Monterrey — Computer Science & Technology</p>
+
 </div>
+
 <div align="center">
-  
-  <img  src="german.svg"
-       alt="snake" />
+  <img src="german.svg" alt="contribution snake animation" />
 </div>
-<p></p>
-<h2>
-  i really like music :headphones:
-</h2>
 
-<!-- Nothing weird to see here -->
-<p align="center">
-<a href="https://spotify.tsurustuneados.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://spotify.tsurustuneados.com/api/now-playing">
-</a>
-</p>
-
-
-<details>
-<summary>:notes: more music </summary>
-<p align="center">
-<img src="https://spotify.tsurustuneados.com/api/top-played">
-</p>
-
-<p align="center">
-</p>
-</details>
-<p></p>
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center"> you can contact me 👉👈:</h2>
-  <p align="center">
-          <a href="https://codeforces.com/profile/germanking6" target="blank"><img align="center"
-         src="https://cdn.codeforces.com/s/23672/images/codeforces-logo-with-telegram.png"
-         alt="azzar" height="30"/></a>
-        <a href="https://www.linkedin.com/in/german-jramirez/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://www.instagram.com/germanking9/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      
-  </samp>
-</div>
-</details>
-
-<p></p>
-<details>
-    <summary>:chart_with_upwards_trend: My Statistics </summary>
-<h1>Current Activity</h1>
 <br/>
-<p align="left">
-<a href="http://german.tsurustuneados.com/">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=germanking6&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=germanking6&theme=tokyonight&hide_border=true" />
-</a>
-</p>
 
-<br>
+## 🚀 About me
 
-[![Germanking6 Activity Graph](https://activity-graph.herokuapp.com/graph?username=germanking6&custom_title=Germanking6%20%20Contribution%20Graph&theme=react-dark)](http://german.tsurustuneados.com/)
-</details>
+- 💻 Software Engineer at **Microsoft**
+- 🎓 Graduated in 2024 from Tecnológico de Monterrey
+- 🏆 Competitive programming on [Codeforces](https://codeforces.com/profile/germanking6)
+- 🎧 Big into music when I'm not coding
 
-<p></p>
-
-
-<details>
-
-<summary>
-  :fearful: I almost forgot my skils... 
-</summary>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://spotify.tsurustuneados.com/api/skills">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 </p>
 
-</details>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=germanking6&show_icons=true&theme=tokyonight&hide_border=true" alt="German's GitHub stats"/>
+  <img width="49.5%" src="https://streak-stats.demolab.com/?user=germanking6&theme=tokyonight&hide_border=true" alt="German's GitHub streak"/>
+</p>
+
+## ☎️ Contact me
+
+<p align="center">
+  <a href="https://codeforces.com/profile/germanking6" target="_blank"><img align="center" src="https://cdn.codeforces.com/s/23672/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="30"/></a>
+  <a href="https://www.linkedin.com/in/german-jramirez/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
+  <a href="https://www.instagram.com/germanking9/" target="_blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30"/></a>
+</p>
