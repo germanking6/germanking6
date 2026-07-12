@@ -37,13 +37,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=germanking6&show_icons=true&theme=tokyonight&hide_border=true" alt="German's GitHub stats"/>
-  <img width="49.5%" src="https://streak-stats.demolab.com/?user=germanking6&theme=tokyonight&hide_border=true" alt="German's GitHub streak"/>
-</p>
-
 ## ☎️ Contact me
 
 <p align="center">
